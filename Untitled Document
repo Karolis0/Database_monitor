@@ -1,0 +1,14 @@
+#include "LibIncludes.h"
+
+int createUpdateTrigger()
+{
+
+}
+int createRemoveTrigger()
+{
+
+}
+int createInsertTrigger()
+{
+
+}

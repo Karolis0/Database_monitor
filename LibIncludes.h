@@ -1,0 +1,15 @@
+#include <mysql/mysql.h>
+#include <stdio.h>
+#include <time.h>
+#include <pthread.h>
+#include <time.h>
+#include <ctype.h>
+#include <stdlib.h>
+#include <locale.h>
+#include <math.h>
+#include <stdbool.h>
+#include <string.h>
+#include <sys/stat.h>
+#include <errno.h>
+#include <unistd.h>
+#include <fcntl.h>
